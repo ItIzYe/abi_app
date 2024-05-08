@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "html5-qrcode": "^2.3.8",
+    "mongoose": "^8.3.4",
+    "qr-scanner": "^1.4.2"
+  },
+  "name": "abi_app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
